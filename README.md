@@ -1,5 +1,5 @@
 - 🤙‍ Hi, I’m @BixinFromThisRealm.
-- 👀 I’m currently interested in: WebDeving, GameDeving and p5.js.
+- 👀 I’m currently interested in: WebDeving and GameDeving.
 - 🌱 I’m currently learning: JS, HTML, CSS and dare i say it, jQuery.
 - 💞️ I’m looking to collaborate on: stuff?
 - 📫 How to reach me: don't '-'.
